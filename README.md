@@ -2,14 +2,14 @@
 
 # Hello Microverse
 
-> Description the project.
+> Project is a welcome message to microverse
 
 
 ## Built With
 
-- html and css
+- HTML, CSS
 - Frameworks
-- Technologies used
+- NPM , STYLELINT, LIGHTHOUSE
 
 ## Live Demo (if available)
 
@@ -24,36 +24,32 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Google chrome
+### Clone the project into your local directory
 
-### Setup
-
-### npm, stylelint, webhint, lighthouse
+### Setup Git or a code editor
    
+### Install NPM , STYLELINT, WEBHINT, LIGHTHOUSE
 
-### Usage
+### Usage run NPM
 
-### Run tests
-
-### Deployment
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Zedd**
 
 - GitHub: [@githubhandle](https://github.com/0zedd)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](www.linkedin.com/in/zedekiah-atapagra)
 
-👤 **Author2**
+👤 **Siko**
 
 - GitHub: [@githubhandle](https://github.com/norbiboy1)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/siko-norbert)
 
-👤 **Author3**
+👤 **Shuhad**
 
 - GitHub: [@githubhandle](https://github.com/Shuhad786)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
